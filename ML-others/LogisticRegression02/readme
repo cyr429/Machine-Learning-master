@@ -1,1 +1,2 @@
-
+This folder contains code for comparison between SGD, BGD and Newton's method's implement on logistic regression
+more details pleas refer to https://blog.csdn.net/cyr429
